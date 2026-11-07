@@ -2,9 +2,9 @@
 
 **Part 1 of 2** · Sports analytics · Python · Bayesian inference
 
-**[Live interactive demo](https://Ydabus23.github.io/bayesian-obp-true-talent/)**
+**[Live interactive demo](https://ydabus23.github.io/bayesian-obp-true-talent/)**
 
-<!-- Add a screenshot of the calculator here: ![Calculator](docs/screenshot.png) -->
+<!-- Add a screenshot of the calculator here: ![Calculator](docs_calculator.png) -->
 
 ## The question
 
