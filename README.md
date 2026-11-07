@@ -4,7 +4,8 @@
 
 **[Live interactive demo](https://ydabus23.github.io/bayesian-obp-true-talent/)**
 
-<!-- Add a screenshot of the calculator here: ![Calculator](docs_calculator.png) -->
+<!-- Add a screenshot of the calculator here: !![Calculator](docs_calculator.png)
+![Chart](docs_chart.png) -->
 
 ## The question
 
